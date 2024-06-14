@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil  🎮
 
-<!--
-**davilerolero/davilerolero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Davi Guimarães dos Santos 
 
-Here are some ideas to get you started:
+estou aprendendo no Alura
+estou desenvolvendo na linguagem javascript
+ultilizo esse espaço para minha organização e compartilhmento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 🎸
+00001111005497sp@al.educacao.sp.gov.br
+
+Escola Jamil Gadia
+
+
+![](https://media1.tenor.com/m/P3RqQUUK9BAAAAAd/rip-juice-cry.gif )
