@@ -2,8 +2,10 @@
 
 Meu nome é Davi Guimarães dos Santos 
 
-estou aprendendo no Alura
+estou aprendendo no [Alura](https://www.alura.com.br)
+
 estou desenvolvendo na linguagem javascript
+
 ultilizo esse espaço para minha organização e compartilhmento dos meus projetos desenvolvidos
 
 ### voce entrar em contato comigo 🎸
