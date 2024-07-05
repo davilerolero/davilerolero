@@ -8,7 +8,7 @@ estou desenvolvendo na linguagem javascript
 
 ultilizo esse espaço para minha organização e compartilhmento dos meus projetos desenvolvidos
 
-### voce entrar em contato comigo 🎸
+### vocẽ entrar em contato comigo 🎸
 00001111005497sp@al.educacao.sp.gov.br
 
 Escola Jamil Gadia
